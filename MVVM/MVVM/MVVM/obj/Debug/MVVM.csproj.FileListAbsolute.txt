@@ -11,5 +11,6 @@ F:\work\Trafigura Doc\mobility\Xamarin\RND\xamarin\MVVM\MVVM\MVVM\bin\Debug\Xama
 F:\work\Trafigura Doc\mobility\Xamarin\RND\xamarin\MVVM\MVVM\MVVM\obj\Debug\MVVM.csprojResolveAssemblyReference.cache
 F:\work\Trafigura Doc\mobility\Xamarin\RND\xamarin\MVVM\MVVM\MVVM\obj\Debug\MVVM.dll
 F:\work\Trafigura Doc\mobility\Xamarin\RND\xamarin\MVVM\MVVM\MVVM\obj\Debug\MVVM.pdb
+F:\work\Trafigura Doc\mobility\Xamarin\RND\xamarin\MVVM\MVVM\MVVM\obj\Debug\MVVM.View.Login.xaml.g.cs
 F:\work\Trafigura Doc\mobility\Xamarin\RND\xamarin\MVVM\MVVM\MVVM\obj\Debug\MVVM.dll.mdb
 F:\work\Trafigura Doc\mobility\Xamarin\RND\xamarin\MVVM\MVVM\MVVM\bin\Debug\MVVM.dll.mdb

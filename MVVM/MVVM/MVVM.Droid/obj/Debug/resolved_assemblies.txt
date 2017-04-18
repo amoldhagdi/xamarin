@@ -41,3 +41,4 @@ F:\work\Trafigura Doc\mobility\Xamarin\RND\xamarin\MVVM\MVVM\MVVM.Droid\obj\Debu
 F:\work\Trafigura Doc\mobility\Xamarin\RND\xamarin\MVVM\MVVM\MVVM.Droid\obj\Debug\android\assets\System.Collections.Concurrent.dll
 F:\work\Trafigura Doc\mobility\Xamarin\RND\xamarin\MVVM\MVVM\MVVM.Droid\obj\Debug\android\assets\System.Runtime.InteropServices.dll
 F:\work\Trafigura Doc\mobility\Xamarin\RND\xamarin\MVVM\MVVM\MVVM.Droid\obj\Debug\android\assets\System.Resources.ResourceManager.dll
+F:\work\Trafigura Doc\mobility\Xamarin\RND\xamarin\MVVM\MVVM\MVVM.Droid\obj\Debug\android\assets\System.Diagnostics.Tools.dll

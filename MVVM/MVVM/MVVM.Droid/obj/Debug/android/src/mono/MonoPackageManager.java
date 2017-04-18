@@ -130,6 +130,7 @@ class MonoPackageManager_Resources {
 		"System.Collections.Concurrent.dll",
 		"System.Runtime.InteropServices.dll",
 		"System.Resources.ResourceManager.dll",
+		"System.Diagnostics.Tools.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};
