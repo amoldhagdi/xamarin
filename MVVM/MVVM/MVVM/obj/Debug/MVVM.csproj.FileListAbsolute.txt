@@ -1,0 +1,15 @@
+F:\work\Trafigura Doc\mobility\Xamarin\RND\xamarin\MVVM\MVVM\MVVM\bin\Debug\MVVM.dll
+F:\work\Trafigura Doc\mobility\Xamarin\RND\xamarin\MVVM\MVVM\MVVM\bin\Debug\MVVM.pdb
+F:\work\Trafigura Doc\mobility\Xamarin\RND\xamarin\MVVM\MVVM\MVVM\bin\Debug\Xamarin.Forms.Core.dll
+F:\work\Trafigura Doc\mobility\Xamarin\RND\xamarin\MVVM\MVVM\MVVM\bin\Debug\Xamarin.Forms.Platform.dll
+F:\work\Trafigura Doc\mobility\Xamarin\RND\xamarin\MVVM\MVVM\MVVM\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\work\Trafigura Doc\mobility\Xamarin\RND\xamarin\MVVM\MVVM\MVVM\bin\Debug\Xamarin.Forms.Core.pdb
+F:\work\Trafigura Doc\mobility\Xamarin\RND\xamarin\MVVM\MVVM\MVVM\bin\Debug\Xamarin.Forms.Core.xml
+F:\work\Trafigura Doc\mobility\Xamarin\RND\xamarin\MVVM\MVVM\MVVM\bin\Debug\Xamarin.Forms.Platform.pdb
+F:\work\Trafigura Doc\mobility\Xamarin\RND\xamarin\MVVM\MVVM\MVVM\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\work\Trafigura Doc\mobility\Xamarin\RND\xamarin\MVVM\MVVM\MVVM\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\work\Trafigura Doc\mobility\Xamarin\RND\xamarin\MVVM\MVVM\MVVM\obj\Debug\MVVM.csprojResolveAssemblyReference.cache
+F:\work\Trafigura Doc\mobility\Xamarin\RND\xamarin\MVVM\MVVM\MVVM\obj\Debug\MVVM.dll
+F:\work\Trafigura Doc\mobility\Xamarin\RND\xamarin\MVVM\MVVM\MVVM\obj\Debug\MVVM.pdb
+F:\work\Trafigura Doc\mobility\Xamarin\RND\xamarin\MVVM\MVVM\MVVM\obj\Debug\MVVM.dll.mdb
+F:\work\Trafigura Doc\mobility\Xamarin\RND\xamarin\MVVM\MVVM\MVVM\bin\Debug\MVVM.dll.mdb
