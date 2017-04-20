@@ -6,6 +6,7 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
+using MVVM.Database;
 
 namespace MVVM.Droid
 {
@@ -14,13 +15,21 @@ namespace MVVM.Droid
     {
         protected override void OnCreate(Bundle bundle)
         {
-            TabLayoutResource = Resource.Layout.Tabbar;
-            ToolbarResource = Resource.Layout.Toolbar;
+            try
+            {
+                TabLayoutResource = Resource.Layout.Tabbar;
+                ToolbarResource = Resource.Layout.Toolbar;
 
-            base.OnCreate(bundle);
+                base.OnCreate(bundle);
 
-            global::Xamarin.Forms.Forms.Init(this, bundle);
-            LoadApplication(new App());
+                global::Xamarin.Forms.Forms.Init(this, bundle);
+                ToDoDatabase.Root = System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal);
+                LoadApplication(new App());
+                Toast.MakeText(ApplicationContext, "Text msg", ToastLength.Long).Show();
+            }
+            catch (Exception ex) {
+                Toast.MakeText(ApplicationContext, ex.Message, ToastLength.Long).Show();
+            }
         }
     }
 }

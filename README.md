@@ -20,8 +20,11 @@
 |Xamarin| Xamarin.form that will used to develop the cross platform dependant code|
 |C#| used for business logic
 |Xaml| used for UI development|
+|SQLite|Mobile BD|
 
 ##MVVM Design Pattern
 
-MVVM(https://www.youtube.com/watch?v=sbFl47NM5fo) |
-XAMLIntellisense(https://marketplace.visualstudio.com/items?itemName=KarlShifflettkdawg.XAMLIntellisensePresenterforVisualStudio2015) |
+MVVM(https://www.youtube.com/watch?v=sbFl47NM5fo)
+
+XAMLIntellisense(https://marketplace.visualstudio.com/items?itemName=KarlShifflettkdawg.XAMLIntellisensePresenterforVisualStudio2015)
+
