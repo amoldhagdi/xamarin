@@ -1,30 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"             
-             x:Class="MVVM.View.Login" 
-             Title="ToDo List">
-  <ContentPage.Content>
-    <Grid>
-      <Grid.RowDefinitions>
-        <RowDefinition Height="Auto"/>
-        <RowDefinition Height="*"/>
-      </Grid.RowDefinitions>
-      <Grid.ColumnDefinitions>
-        <ColumnDefinition Width="*"/>
-        <ColumnDefinition Width="Auto"/>
-      </Grid.ColumnDefinitions>
-
-
-      <Entry Text="{Binding Item}"/>
-      <Button Grid.Column="1" Command="{Binding SavekHandler}" Text="Save Item"/>
-
-      <ListView ItemsSource="{Binding ItemList}" Grid.ColumnSpan="2" Grid.Row="1">
-        <ListView.ItemTemplate>
-          <DataTemplate>
-            <TextCell Text="{Binding Name}" Detail="{Binding CreatedDisplay}"/>
-          </DataTemplate>
-        </ListView.ItemTemplate>
-      </ListView>
-    </Grid>
-  </ContentPage.Content>
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="MVVM.View.Login"  
+             Title="Login">
+  <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+    <Button Command="{Binding HandleApiCall}" Text="Login"/>
+  </StackLayout>
 </ContentPage>

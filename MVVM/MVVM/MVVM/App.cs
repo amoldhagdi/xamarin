@@ -6,8 +6,9 @@ namespace MVVM
     public class App : Application
     {
         public App()
-        {
-            MainPage = new Login();
+        { 
+            //MainPage = new Login();
+            MainPage = new NavigationPage(new Login());
         }
 
         protected override void OnStart()
