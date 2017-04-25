@@ -10,8 +10,10 @@ using System.Threading.Tasks;
 
 namespace MVVM.ViewModels
 {
+
     public class LoginModel : INotifyPropertyChanged
     {
+        public List<Student> stud { get; set; } 
         IRestSarvice restService { get;set; } 
 
         public ICommand HandleApiCall { get; set; }
@@ -23,8 +25,9 @@ namespace MVVM.ViewModels
 
         async void ApiCall()
         {
-            string url = Constants.ApiUrl + "/posts/1";
-            List<Student> stud = await restService.Get<Student>(url, null);
+            string url = Constants.ApiUrl + "/posts";
+            stud = await restService.Get<Student>(url, null);
+            OnPropertyChanged("stud");
         }
 
 
